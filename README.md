@@ -1,5 +1,7 @@
 # NOAA-PMEL-OME_Universal_Sterilization_Protocol
 
+[![DOI](https://zenodo.org/badge/1044507584.svg)](https://doi.org/10.5281/zenodo.16945434)
+
 See [NOAA-PMEL-OME_Extraction_Protocol_DiscFilter_Centrifuge.md](https://github.com/HanWeinrich/NOAA-PMEL-OME_Extraction_Protocol_DiscFilter_Centrifuge/blob/main/NOAA-PMEL-OME_Extraction_Protocol_DiscFilter_Centrifuge.md)
 
 ## Disclaimer
