@@ -9,7 +9,7 @@ license: CC0 1.0 Universal
 maturity level: mature
 
 # FAIRe terms
-sterilise_method:
+sterilise_method: https://doi.org/ 10.5281/zenodo.16945434
 ---
 
 # NOAA PMEL OME Universal Sterilization Protocol
