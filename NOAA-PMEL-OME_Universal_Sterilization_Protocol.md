@@ -210,7 +210,7 @@ To facilitate the connection between the gravity bag and sterivex, these connect
 4. Soak the connector in the bucket with RO for 15 min; make sure the RO makes it into the inside of the tube.
 5. Once sterilized, with sterilized gloves, pack the connectors into whirl-paks. You can fit multiple connectors into a whirl-pak for short-term storage.
 
-## Molecular Lab Work Space Breakdown
+### Molecular Lab Work Space Breakdown
 
 To minimize the risk of sample contamination, the Ocean Molecular Ecology Group has three dedicated spaces.
 
