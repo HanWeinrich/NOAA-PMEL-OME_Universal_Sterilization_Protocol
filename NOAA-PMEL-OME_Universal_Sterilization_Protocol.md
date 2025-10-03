@@ -59,7 +59,7 @@ sterilise_method: https://doi.org/10.5281/zenodo.16945434
 | VERSION | RELEASE DATE | DESCRIPTION OF REVISIONS |
 | ------------- | ------------- | ------------- |
 | 1.0.0 | 2025-08-25 | Beta version with MIOP and FAIRe terms |
-| 1.1.0 | 2025-10-03 | Upgraded to an initial release with detailed operating procedures included |
+| 1.1.0 | 2025-10-03 | Upgraded to an initial release with all sections completed |
 
 ### Acronyms and Abbreviations
 
