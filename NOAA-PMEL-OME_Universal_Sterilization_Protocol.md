@@ -65,6 +65,7 @@ sterilise_method: https://doi.org/10.5281/zenodo.16945434
 
 | ACRONYM / ABBREVIATION | DEFINITION |
 | ------------- | ------------- |
+|BSC|	Biosafety cabinet |
 |CICOES| Cooperative Institute for Climate, Ocean, & Ecosystem Studies
 |DNA	|Deoxyribonucleic acid|
 |eDNA	|environmental DNA|
@@ -87,7 +88,7 @@ sterilise_method: https://doi.org/10.5281/zenodo.16945434
 
 ### Summary
 
-PMEL's Ocean Molecular Ecology (OME) program uses 'Omics tools to tackle global ocean issues. We seek to leverage advances in molecular biology to scale biological analyses with physical and chemical processes. Our science aims to characterize the impacts of warming, ocean acidification, and hypoxia on marine life. This allows for characterization of marine ecosystems as they respond to a changing climate. To accomplish these goals, we maintain three clean lab spaces: a eDNA lab van, a general lab space, and a PCR room. This protocol outlines the standard sterilization procedure used in our lab.
+PMEL's Ocean Molecular Ecology (OME) program uses 'Omics tools to tackle global ocean issues. We seek to leverage advances in molecular biology to scale biological analyses with physical and chemical processes. Our science aims to characterize the impacts of warming, ocean acidification, and hypoxia on marine life. This allows for characterization of marine ecosystems as they respond to a changing climate. To accomplish these goals, we maintain three clean lab spaces: an eDNA lab van, a general lab space, and a PCR room. This protocol outlines the standard sterilization procedure used in our lab.
 
 ### Method Description and Rationale
 
@@ -128,30 +129,30 @@ Estimated quantities for deep cleaning a singular OME space:
 | **Durable equipment** |
 | Carboy | 20 L Nalgene rectangular carboy with spigot | Generic | 1 |Must be sterilized and filled with RO before use. |
 |Wash bottles|Safety wash bottles 500 mL for EtOH, bleach, and RO water|VWR|2|Can be substituted with generic, but recommend purchasing different colored bottles for each reagent. Must be sterilized before use. |
-| Bucket | 5 gallon bucket | Generic | 2 | Can be substitued with a bin.|
+| Bucket | 5 gallon bucket | Generic | 2 | Can be substituted with a bin.|
 | **Consumable equipment** |
 | Kimwipes  | Delicate task wipes   | Kimtech     |  1 box   | Can be substituted with generic; must be lint-free. |
 | Paper towels  | Paper towels   | Generic     |  Singular roll   |     |
 | Nitrile gloves   | Powder free nitrile gloves  | Fisher Scientific    |  6 pairs    |   Can be subsituted with generic nitrile gloves.    |
 **Optional Equipment**||||
 | UV crosslinker | UV crosslinker AH (115V), 234100 | Boekel Scientific  | 1 | Recommended not required; can be substituted. |
-| **Chemicals** |Choose **one** set of reagents - either Broad Range (BR) or High Sensitivity (HS) kit|
+| **Chemicals** ||
 | 70% EtOH | Molecular grade ethanol | Generic | 20 mL |  |
-| 10% bleach | Hypochlorite bleach | Clorox | 10 mL | Remake every ~5 days as bleach decomposes quickly at 10% concentration |
-| RO water | Ultrapure 18 MΩ RO water | generic | 400 mL| Must run through reverse osmosis filter with an irradiated 0.2 micron filter to remove biological contaminants.  |
+| 10% bleach | Hypochlorite bleach | Clorox | 10 mL | Remake every ~5 days as bleach decomposes quickly at 10% concentration. |
+| RO water | Ultrapure 18 MΩ RO water | Generic | 400 mL| Must run through reverse osmosis filter with an irradiated 0.2 micron filter to remove biological contaminants.  |
 
 ## STANDARD OPERATING PROCEDURE
 
-**Glove Sterilization:** Before filtering, extraction, or performing any molecular-based procedure, sterile nitrile gloves must be used. Gloves directly from the box are not considered sterile. To sterilize, squirt 10% bleach solution from a squirt bottle onto a new pair of gloves and rub hands together, then squirt with 70% EtOH to get rid of bleach residue. 
+**Glove Sterilization:** Before filtering, extraction, or performing any molecular-based procedure, sterile nitrile gloves must be used. Gloves directly from the box are not considered sterile. To sterilize, wash 10% bleach solution from a wash bottle onto a new pair of gloves and rub hands together, then wash with 70% EtOH to get rid of bleach residue. 
 
-**Squirt Bottle Sterilization:** All squirt bottles used for 70% EtOH or RO must be sterilized before use. This involves a 10% bleach rinse, followed by three RO rinses. Shake generously to ensure proper bottle sterilization and ensure you squirt liquid from the nozzle during each phase.
+**Wash Bottle Sterilization:** All wash bottles used for 70% EtOH or RO must be sterilized before use. This involves a 10% bleach rinse, followed by three RO rinses. Shake generously to ensure proper bottle sterilization and ensure you wash the liquid from the nozzle during each phase.
 
 **Bench Sterilization:** Whether in the field or in the OME lab spaces, before starting molecular work, all work surfaces must be sterilized. Wipe down surfaces with a paper towel and a 10% bleach solution, followed by a 70% EtOH wipe down.
 
 **Bucket or Bin Sterilization:** For fieldwork and lab sterilization efforts, a clean bucket or bin is often required to sterilize other equipment or store items. 
 
 1. Create a 10% bleach solution directly in a bucket (4-6 L). Seal the lid carefully and shake for 2-3 minutes.
-2. Empty the 10% bleach solution (feel free to reuse the bleach for other sterilization needs). Fill the carboy with 3-4 L of RO water and shake for 1-2 minutes. Repeat this RO wash step two more times (= 3 rinses in total)
+2. Empty the 10% bleach solution (feel free to reuse the bleach for other sterilization needs). Fill the carboy with 3-4 L of RO water and shake for 1-2 minutes. Repeat this RO wash step two more times (= 3 rinses in total).
 3. Once complete, close the bucket with a lid and label. If the bucket is being sent on fieldwork, tape the lid down to ensure it's secure for transport.
 
 **Carboy Sterilization:** 
@@ -159,11 +160,11 @@ A sterile carboy is often required for fieldwork if the vessel lacks RO. In addi
 
 1. Create a 10% bleach solution directly in a carboy (4-6 L). Close the carboy, make sure the spigot is closed, and shake for 2-3 minutes.
 2. Empty the 10% bleach solution via the spigot into the sink. Allow 50-80% of the bleach solution to leave through the spigot, then dump the rest. You’ll need to loosen the cap a bit; otherwise, an airlock will prevent the flow.
-3. Fill the carboy with 3-4 L of RO water and shake for 1-2 minutes. Repeat this RO wash step two more times (= 3 rinses in total)
+3. Fill the carboy with 3-4 L of RO water and shake for 1-2 minutes. Repeat this RO wash step two more times (= 3 rinses in total).
 4. Once complete, seal the carboy lid and spigot with parafilm. If using immediately, fill with RO water. Otherwise, this sealed, sterile carboy can be stored for month+.
 
 ### eDNA Field Collection Sterilization Procedure
-All environmental DNA sampling requires some, if not all, of the following materials to be sterilized. More details can be found in [OME eDNA Collection Protocol via Peristaltic Pump](https://github.com/marinednadude/NOAA-PMEL-OME_eDNA_Collection_Protocol_Niskin/blob/main/NOAA-PMEL-OME_eDNA_Collection_Protocol_Niksin.md), [OME eDNA Collection Protocol via Gravity Bag], and [OME eDNA Collection Protocol via Disc Filters].
+All environmental DNA sampling requires some, if not all, of the following materials to be sterilized. More details can be found in [OME eDNA Collection Protocol with Sterivex and Peristaltic Pump](https://github.com/marinednadude/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge/blob/main/NOAA-PMEL-OME_eDNA_Sterivex_Extraction_Proctocol_Centrifuge.md), [OME eDNA Collection Protocol via Gravity Bag], and [OME eDNA Collection Protocol via Disc Filters].
 
 **Bottle Sterilization:**
 One sterile bottle is required for each sample and each field blank.
@@ -182,12 +183,8 @@ Bottle Sterilization Method with (RO Not Available):
 2. Close it with the cap, then wrap the top with parafilm to maintain sterility. **Shouldn't be done more than 24 hours in advance of sampling**
 3. Once the CTD is on deck, take bleached 1 L Nalgene bottles and dispense ~250 ml of sample seawater from the Niskin into the bottle; close the lid and shake vigorously. Dump. This will rid the container of residual bleach. Repeat process 2x (= three rinses in total). Water must come from the same Niskin that will be the source of the actual sample; otherwise, there will be cross-contamination.
 
-**Tubing and Adaptor Sterilization:**
-
-Barbed Luer Adaptor Sterilization:
-1. Place luer adaptors in a clean 50 mL Falcon tube and fill with 10% bleach. 
-2. Allow adaptors to sit in bleach for 10 mins, shaking several times throughout.
-3. Rinse 3x with RO water while shaking if available. If no RO is available, rinse individual adaptors in sample seawater from the niskin 3x immediately before sampling.
+**Tubing Sterilization:**
+Required for [OME eDNA Collection Protocol with Sterivex and Peristaltic Pump](https://github.com/marinednadude/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge/blob/main/NOAA-PMEL-OME_eDNA_Sterivex_Extraction_Proctocol_Centrifuge.md)
 
 Tube Sterilization Method (RO Available):
 1. Prepare a 10% bleach solution in one of the buckets (6-10 L total, depending on needs). Then, grab two sterile buckets and fill one with RO water (6-10 L total, depending on needs). Leave the other sterile bucket for peristaltic tubing storage post-sterilization.
@@ -202,8 +199,17 @@ Tube Sterilization Method (RO Not Available):
 3. Remove peristaltic tubing from bleach bucket and wipe down ends with kimwipe and 70% EtOH. Place in a sterile storage bucket. **Shouldn't be done more than 24 hours in advance of sampling to avoid tube damage due to bleach residue**
 4. Once the CTD is on deck, with a sterilized Nalgene bottle, collect ~250 ml of Niskin sample seawater in addition to the 1 L Nalgene bottle sample. Before filtering through the sterivex, run the 250 ml of sample seawater through the peristaltic tubing to clean off residual bleach. Use tubing immediately.
 
-**Connector Sterilization:**
-To facilitate the connection between the gravity bag and sterivex, these connectors must be built and sterilized. More detail can be found in [OME eDNA Collection Protocol via Gravity Bag].
+**Adaptor and Connector Sterilization:**
+
+Barbed Luer Adaptor Sterilization:
+Required to connect sterivex to tubing with Filtering Method 1 - [OME eDNA Collection Protocol with Sterivex and Peristaltic Pump](https://github.com/marinednadude/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge/blob/main/NOAA-PMEL-OME_eDNA_Sterivex_Extraction_Proctocol_Centrifuge.md)
+
+1. Place luer adaptors in a clean 50 mL Falcon tube and fill with 10% bleach. 
+2. Allow adaptors to sit in bleach for 10 mins, shaking several times throughout.
+3. Rinse 3x with RO water while shaking if available. If no RO is available, rinse individual adaptors in sample seawater from the niskin 3x immediately before sampling.
+
+Gravity Bag Connector Sterilization:
+Required to connect the gravity bag and sterivex in [OME eDNA Collection Protocol via Gravity Bag](https://github.com/Brown-NOAA/NOAA-PMEL-OME_eDNA_Collection_Protocol_Sterivex_GravityBag_BeBOP/blob/main/NOAA-PMEL-OME_eDNA_Collection_Protocol_Sterivex_GravityBag.md)
 
 1. Prepare a 10% bleach solution in a bucket (2 L). Then, grab another sterile bucket and fill it with RO water (2 L).
 2. Soak the connectors in the bucket with bleach for 15 min; make sure the bleach makes it into the inside of the tubing.
@@ -211,46 +217,34 @@ To facilitate the connection between the gravity bag and sterivex, these connect
 4. Soak the connector in the bucket with RO for 15 min; make sure the RO makes it into the inside of the tube.
 5. Once sterilized, with sterilized gloves, pack the connectors into whirl-paks. You can fit multiple connectors into a whirl-pak for short-term storage.
 
-### Molecular Lab Work Space Breakdown
+### Molecular Lab Workspace Breakdown
 
 To minimize the risk of sample contamination, the Ocean Molecular Ecology Group has three dedicated spaces.
 
 **eDNA Lab Van:** This space contains two BioSafety II cabinets (BSC), a UV crosslinker, a dedicated -20 freezer and fridge, and benchspace. Only low-biomass eDNA molecular procedures are performed here, such as eDNA extractions, eDNA quantification and aliquoting, and preparation of eDNA samples for PCR amplification. 
 
-**General Lab Space:** This space contains one BioSafety II cabinet (BSC), a UV crosslinker, a dedicated -20 freezer and fridge, and benchspace. We utilize this space for fieldwork preparation, tissue extractions, concentrated eDNA extractions for qPCR testing, etc.
+**General Lab Space:** This space contains one BioSafety II cabinet (BSC), a UV crosslinker, a dedicated -20 °C freezer and fridge, and benchspace. We utilize this space for fieldwork preparation, tissue extractions, concentrated eDNA extractions for qPCR testing, etc.
 
 **PCR Room:** This space contains PCR machines, a qPCR machine, and all equipment needed for gel electrophoresis. Only high-biomass molecular or post-PCR molecular procedures are performed in this room.
 
-Each space has dedicated equipment (e.g., tube racks, pipettes, squirt bottles) which is color-coded to prevent accidental transfer between spaces. If equipment does need to be relocated, it must be properly sterilized between each level. For example, a tube rack from the PCR room would need to be sterilized and placed in the UV cross-linker before being introduced to the general lab space. It also could not jump directly to the eDNA lab van, and if needed in that space, would require an additional sterilization.
-
-### Molecular Lab Work Space Breakdown
-
-To minizime the risk of sample contamination, the Ocean Molecular Ecology Group has three dedicated spaces.
-
-**eDNA Lab Van:** This space contains two BioSafety Cabinents, a UV crosslinker, a dedicated -20 freezer and fridge, and benchspace. Only low biomass eDNA molecular procedures are performed in here, such as eDNA extractions, eDNA quantification and aliquoting, and preparation of eDNA samples for PCR amplification. 
-
-**General Lab Space:** This space contains one BioSafety Cabinent, a UV crosslinker, a dedicated -20 freezer and fridge, and benchspace. We utilitze this space for fieldwork preparation, tissue extractions, concentrated eDNA extractions for qPCR testing, etc.
-
-**PCR Room:** This space contains PCR machines, a qPCR machine, and all equipment needed for gel electrophoresis. Only high biomass molecular or post-PCR molecular procedures are performed in this room.
-
-Each space has dedicated equipment (e.g., tube racks, pipettes, squirt bottles) which is color-coded to prevent accidently transfer between spaces. If equipment does need to be relocated, it must be properly sterilized between each level. For example, a tube rack from the PCR room would need to be sterilized and placed in the UV cross-linker before being introduced to the general lab space. It also could not jump directly to the eDNA lab van, and if needed in that space would require an additional sterilization.
+Each space has dedicated equipment (e.g., tube racks, pipettes, wash bottles) which are color-coded to prevent accidental transfer between spaces. If equipment does need to be relocated, it must be properly sterilized between each level. For example, a tube rack from the PCR room would need to be sterilized and placed in the UV crosslinker before being introduced to the general lab space. It also could not jump directly to the eDNA lab van, and if needed in that space, would require an additional sterilization.
 
 ### Standard Sterilization Procedure
 
-**BSC Cabinents:** Sterilize workspaces and durable equipment, including pipettes within the BSC, with 10% bleach. Then wipe down all surfaces and equipment with 70% EtOH. If you have a UV crosslinker available, UV pipettes and tube racks regularly for 2 minutes. Run the UV light in the BSC cabinent for 30 minutes.
+**Biosafety Cabinet:** Sterilize workspaces and durable equipment, including pipettes within the BSC, with 10% bleach. Then wipe down all surfaces and equipment with 70% EtOH. If you have a UV crosslinker available, UV pipettes and tube racks regularly for 2 minutes. Run the UV light in the BSC cabinet for 30 minutes.
 
-This procedure can be completed in advance to facilitate timely molecular lab-work. However, all BSC should be properly sterilized if not used for 5-7 days.
+This procedure can be completed in advance to facilitate timely molecular lab work. However, all BSCs should be properly sterilized if not used for 5-7 days.
 
-**Lab Benches:** To minimize the risk of cross-contamination, before use, all benches and equipment should be wiped down with 10% bleach, followed by 70% ethanol. This cleaning procedure ensures the removal of potential contaminants, maintaining the integrity of the results.
+**Lab Benches:** To minimize the risk of cross-contamination, before use, all benches and equipment should be wiped down with 10% bleach, followed by 70% EtOH. This cleaning procedure ensures the removal of potential contaminants, maintaining the integrity of the results.
 
 ### Deep Clean Procedure
-All spaces, but especially the eDNA lab van, require perioidic deep cleans (every 2-3 months) to reduce contaminants. Below is a listed of recommended deep clean steps to be utilized for all lab spaces.
+All spaces, but especially the eDNA lab van, require periodic deep cleans (every 2-3 months) to reduce contaminants. Below is a list of recommended deep clean steps to be utilized for all lab spaces.
 
-* Break down instrumentation and wipe down all components with 10% bleach and 70% EtOH. This includes vortex plates, centrifuge rotors, etc. Allow components to air dry and then UV crosslinker where possible.
-* Soak all tube racks in 10% bleach for 15 min, wash with RO, and allow to air dry. Use UV crosslinker for final sterilization.
-* Dump and resterilize all bleach and ethanol squirt bottles.
+* Break down instrumentation and wipe down all components with 10% bleach and 70% EtOH. This includes vortex plates, centrifuge rotors, etc. Allow components to air dry and then use a UV crosslinker where possible.
+* Soak all tube racks in 10% bleach for 15 min, wash with RO, and allow to air dry. Use a UV crosslinker for final sterilization.
+* Dump and resterilize all bleach and ethanol wash bottles.
 * Wipe down all exposed surfaces with 10% bleach and 70% EtOH.
-* Take apart and wipe down all pipettes with 10% bleach and 70% EtOH, then UV crosslinker where possible.
+* Take apart and wipe down all pipettes with 10% bleach and 70% EtOH, then use a UV crosslinker where possible.
 * Sweep debris off floors and mop with a 10% bleach solution.
 * Check BSC UV light strength with the UV reader.
 * Perform inventory of supplies; restock/reorder dwindling items.
