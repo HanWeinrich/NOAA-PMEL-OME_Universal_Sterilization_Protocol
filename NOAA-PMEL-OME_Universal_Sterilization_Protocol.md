@@ -88,7 +88,7 @@ sterilise_method: https://doi.org/10.5281/zenodo.16945434
 
 ### Summary
 
-PMEL's Ocean Molecular Ecology (OME) program uses 'Omics tools to tackle global ocean issues. We seek to leverage advances in molecular biology to scale biological analyses with physical and chemical processes. Our science aims to characterize the impacts of warming, ocean acidification, and hypoxia on marine life. This allows for characterization of marine ecosystems as they respond to a changing climate. To accomplish these goals, we maintain three clean lab spaces: an eDNA lab van, a general lab space, and a PCR room. This protocol outlines the standard sterilization procedure used in our lab.
+PMEL's Ocean Molecular Ecology (OME) program uses 'Omics tools to tackle global ocean issues. We seek to leverage advances in molecular biology to scale biological analyses with physical and chemical processes. Our science aims to characterize the impacts of warming, ocean acidification, and hypoxia on marine life. This allows for characterization of marine ecosystems as they respond to a changing climate. To accomplish these goals, we maintain three clean lab spaces: an eDNA lab van, a general lab space, and a PCR room. This protocol outlines the standard sterilization procedure used in our lab spaces.
 
 ### Method Description and Rationale
 
@@ -112,7 +112,7 @@ Molecular biology training (including, at a minimum, sterile technique) is requi
 
 ### Time Required to Execute the Procedure
 
-The time needed varies widely depending on the phase of the process (e.g., sampling, extraction, PCR amplification). In addition, the sterilization required for a full space clean (~2-3 hours) takes far more time than the sterilization required before simply starting a singular stage of an experiment (~15-30 min).
+The time needed varies widely depending on the phase of the process (e.g., sampling, extraction, PCR amplification). In addition, the sterilization required for a full space clean (~3-4 hours) takes far more time than the sterilization required before simply starting a singular stage of an experiment (~20-40 min).
 
 ## EQUIPMENT
 
@@ -129,17 +129,17 @@ Estimated quantities for deep cleaning a singular OME space:
 | **Durable equipment** |
 | Carboy | 20 L Nalgene rectangular carboy with spigot | Generic | 1 |Must be sterilized and filled with RO before use. |
 |Wash bottles|Safety wash bottles 500 mL for EtOH, bleach, and RO water|VWR|2|Can be substituted with generic, but recommend purchasing different colored bottles for each reagent. Must be sterilized before use. |
-| Bucket | 5 gallon bucket | Generic | 2 | Can be substituted with a bin.|
+| Bucket | 5 gallon bucket | Generic | 2 | Can be substituted with a bin, bucket with a lid is reccomended.|
 | **Consumable equipment** |
 | Kimwipes  | Delicate task wipes   | Kimtech     |  1 box   | Can be substituted with generic; must be lint-free. |
 | Paper towels  | Paper towels   | Generic     |  Singular roll   |     |
 | Nitrile gloves   | Powder free nitrile gloves  | Fisher Scientific    |  6 pairs    |   Can be subsituted with generic nitrile gloves.    |
 **Optional Equipment**||||
-| UV crosslinker | UV crosslinker AH (115V), 234100 | Boekel Scientific  | 1 | Recommended not required; can be substituted. |
+| UV crosslinker | UV crosslinker AH (115V), 234100 | Boekel Scientific  | 1 | Recommended not required; can be substituted. Recommended substitution, larger size UV sterilization chamber: Air Science brand UVB-15 UV Box |
 | **Chemicals** ||
-| 70% EtOH | Molecular grade ethanol | Generic | 20 mL |  |
-| 10% bleach | Hypochlorite bleach | Clorox | 10 mL | Remake every ~5 days as bleach decomposes quickly at 10% concentration. |
-| RO water | Ultrapure 18 MΩ RO water | Generic | 400 mL| Must run through reverse osmosis filter with an irradiated 0.2 micron filter to remove biological contaminants.  |
+| 70% EtOH | Molecular grade ethanol | Generic | 200 mL |  |
+| 10% bleach | Hypochlorite bleach | Clorox | 4 L | Remake every ~5 days as bleach decomposes quickly at 10% concentration. |
+| RO water | Ultrapure 18 MΩ RO water | Generic | 4 L| Must run through reverse osmosis filter with an irradiated 0.2 micron filter to remove biological contaminants.  |
 
 ## STANDARD OPERATING PROCEDURE
 
@@ -223,7 +223,7 @@ To minimize the risk of sample contamination, the Ocean Molecular Ecology Group 
 
 **eDNA Lab Van:** This space contains two BioSafety II cabinets (BSC), a UV crosslinker, a dedicated -20 freezer and fridge, and benchspace. Only low-biomass eDNA molecular procedures are performed here, such as eDNA extractions, eDNA quantification and aliquoting, and preparation of eDNA samples for PCR amplification. 
 
-**General Lab Space:** This space contains one BioSafety II cabinet (BSC), a UV crosslinker, a dedicated -20 °C freezer and fridge, and benchspace. We utilize this space for fieldwork preparation, tissue extractions, concentrated eDNA extractions for qPCR testing, etc.
+**General Lab Space:** This space contains one BioSafety II cabinet (BSC), a UV crosslinker, a dedicated -20 °C freezer and fridge, and benchspace. We utilize this space for fieldwork preparation, tissue extractions, concentrated eDNA extractions for qPCR testing, qPCR reaction setup, etc.
 
 **PCR Room:** This space contains PCR machines, a qPCR machine, and all equipment needed for gel electrophoresis. Only high-biomass molecular or post-PCR molecular procedures are performed in this room.
 
