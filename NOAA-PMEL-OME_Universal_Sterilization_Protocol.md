@@ -164,7 +164,7 @@ A sterile carboy is often required for fieldwork if the vessel lacks RO. In addi
 4. Once complete, seal the carboy lid and spigot with parafilm. If using immediately, fill with RO water. Otherwise, this sealed, sterile carboy can be stored for month+.
 
 ### eDNA Field Collection Sterilization Procedure
-All environmental DNA sampling requires some, if not all, of the following materials to be sterilized. More details can be found in [OME eDNA Collection Protocol with Sterivex and Peristaltic Pump](https://github.com/marinednadude/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge/blob/main/NOAA-PMEL-OME_eDNA_Sterivex_Extraction_Proctocol_Centrifuge.md), [OME eDNA Collection Protocol via Gravity Bag], and [OME eDNA Collection Protocol via Disc Filters].
+All environmental DNA sampling requires some, if not all, of the following materials to be sterilized. More details can be found in [OME eDNA Collection Protocol with Sterivex and Peristaltic Pump](https://github.com/marinednadude/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge/blob/main/NOAA-PMEL-OME_eDNA_Sterivex_Extraction_Protocol_Centrifuge.md), [OME eDNA Collection Protocol via Gravity Bag](https://github.com/Brown-NOAA/NOAA-PMEL-OME_eDNA_Collection_Protocol_Sterivex_GravityBag_BeBOP/blob/main/NOAA-PMEL-OME_eDNA_Collection_Protocol_Sterivex_GravityBag.md), and [OME eDNA Collection Protocol via Disc Filters](https://github.com/Brown-NOAA/NOAA-PMEL-OME_eDNA_Collection_Protocol_DiscFilters_VacuumManifold_BeBOP/blob/main/NOAA-PMEL-OME_eDNA_Collection_Protocol_DiscFilters_VacuumManifold.md).
 
 **Bottle Sterilization:**
 One sterile bottle is required for each sample and each field blank.
@@ -184,7 +184,7 @@ Bottle Sterilization Method with (RO Not Available):
 3. Once the CTD is on deck, take bleached 1 L Nalgene bottles and dispense ~250 ml of sample seawater from the Niskin into the bottle; close the lid and shake vigorously. Dump. This will rid the container of residual bleach. Repeat process 2x (= three rinses in total). Water must come from the same Niskin that will be the source of the actual sample; otherwise, there will be cross-contamination.
 
 **Tubing Sterilization:**
-Required for [OME eDNA Collection Protocol with Sterivex and Peristaltic Pump](https://github.com/marinednadude/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge/blob/main/NOAA-PMEL-OME_eDNA_Sterivex_Extraction_Proctocol_Centrifuge.md)
+Required for [OME eDNA Collection Protocol with Sterivex and Peristaltic Pump](https://github.com/marinednadude/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge/blob/main/NOAA-PMEL-OME_eDNA_Sterivex_Extraction_Protocol_Centrifuge.md)
 
 Tube Sterilization Method (RO Available):
 1. Prepare a 10% bleach solution in one of the buckets (6-10 L total, depending on needs). Then, grab two sterile buckets and fill one with RO water (6-10 L total, depending on needs). Leave the other sterile bucket for peristaltic tubing storage post-sterilization.
@@ -202,11 +202,11 @@ Tube Sterilization Method (RO Not Available):
 **Adaptor and Connector Sterilization:**
 
 Barbed Luer Adaptor Sterilization:
-Required to connect sterivex to tubing with Filtering Method 1 - [OME eDNA Collection Protocol with Sterivex and Peristaltic Pump](https://github.com/marinednadude/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge/blob/main/NOAA-PMEL-OME_eDNA_Sterivex_Extraction_Proctocol_Centrifuge.md)
+Required to connect sterivex to tubing with Filtering Method 1 - [OME eDNA Collection Protocol with Sterivex and Peristaltic Pump](https://github.com/marinednadude/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge/blob/main/NOAA-PMEL-OME_eDNA_Sterivex_Extraction_Protocol_Centrifuge.md)
 
 1. Place luer adaptors in a clean 50 mL Falcon tube and fill with 10% bleach. 
 2. Allow adaptors to sit in bleach for 10 mins, shaking several times throughout.
-3. Rinse 3x with RO water while shaking if available. If no RO is available, rinse individual adaptors in sample seawater from the niskin 3x immediately before sampling.
+3. Rinse 3x with RO water while shaking if available. If no RO is available, rinse individual adaptors in sample seawater from the Niskin 3x immediately before sampling.
 
 Gravity Bag Connector Sterilization:
 Required to connect the gravity bag and sterivex in [OME eDNA Collection Protocol via Gravity Bag](https://github.com/Brown-NOAA/NOAA-PMEL-OME_eDNA_Collection_Protocol_Sterivex_GravityBag_BeBOP/blob/main/NOAA-PMEL-OME_eDNA_Collection_Protocol_Sterivex_GravityBag.md)
