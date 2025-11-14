@@ -4,10 +4,10 @@ methodology_category: sterilization
 project: NOAA Pacific Marine Environmental Laboratory Ocean Molecular Ecology Group protocols
 creator: Shannon Brown, Han Weinrich
 language: en
-issued:	2025-10-03
+issued:	2025-11-14
 audience: scientists
 publisher:	NOAA Pacific Marine Environmental Laboratory Ocean Molecular Ecology Group; University of Washington Cooperative Institute for Climate, Ocean, & Ecosystem Studies
-hasVersion: 1
+hasVersion: 1.1.0
 license: CC0 1.0 Universal
 maturity level: mature
 
@@ -59,7 +59,7 @@ sterilise_method: https://doi.org/10.5281/zenodo.16945434
 | VERSION | RELEASE DATE | DESCRIPTION OF REVISIONS |
 | ------------- | ------------- | ------------- |
 | 1.0.0 | 2025-08-25 | Beta version with MIOP and FAIRe terms |
-| 1.1.0 | 2025-10-03 | Upgraded to an initial release with all sections completed |
+| 1.1.0 | 2025-11-14 | Upgraded to an initial release with all sections completed |
 
 ### Acronyms and Abbreviations
 
@@ -164,7 +164,7 @@ A sterile carboy is often required for fieldwork if the vessel lacks RO. In addi
 4. Once complete, seal the carboy lid and spigot with parafilm. If using immediately, fill with RO water. Otherwise, this sealed, sterile carboy can be stored for month+.
 
 ### eDNA Field Collection Sterilization Procedure
-All environmental DNA sampling requires some, if not all, of the following materials to be sterilized. More details can be found in [OME eDNA Collection Protocol with Sterivex and Peristaltic Pump](https://github.com/marinednadude/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge/blob/main/NOAA-PMEL-OME_eDNA_Sterivex_Extraction_Protocol_Centrifuge.md), [OME eDNA Collection Protocol via Gravity Bag](https://github.com/Brown-NOAA/NOAA-PMEL-OME_eDNA_Collection_Protocol_Sterivex_GravityBag_BeBOP/blob/main/NOAA-PMEL-OME_eDNA_Collection_Protocol_Sterivex_GravityBag.md), and [OME eDNA Collection Protocol via Disc Filters](https://github.com/Brown-NOAA/NOAA-PMEL-OME_eDNA_Collection_Protocol_DiscFilters_VacuumManifold_BeBOP/blob/main/NOAA-PMEL-OME_eDNA_Collection_Protocol_DiscFilters_VacuumManifold.md).
+All environmental DNA sampling requires some, if not all, of the following materials to be sterilized. More details can be found in [OME eDNA Collection Protocol with Sterivex and Peristaltic Pump](https://github.com/marinednadude/NOAA-PMEL-OME_eDNA_Collection_Protocol_Sterivex_PeristalticPump_BeBOP/blob/main/NOAA-PMEL-OME_eDNA_Collection_Protocol_Sterivex_PeristalticPump.md), [OME eDNA Collection Protocol via Gravity Bag](https://github.com/Brown-NOAA/NOAA-PMEL-OME_eDNA_Collection_Protocol_Sterivex_GravityBag_BeBOP/blob/main/NOAA-PMEL-OME_eDNA_Collection_Protocol_Sterivex_GravityBag.md), and [OME eDNA Collection Protocol via Disc Filters](https://github.com/Brown-NOAA/NOAA-PMEL-OME_eDNA_Collection_Protocol_DiscFilters_VacuumManifold_BeBOP/blob/main/NOAA-PMEL-OME_eDNA_Collection_Protocol_DiscFilters_VacuumManifold.md).
 
 **Bottle Sterilization:**
 One sterile bottle is required for each sample and each field blank.
@@ -184,7 +184,7 @@ Bottle Sterilization Method (RO Not Available):
 3. Once the CTD is on deck, take bleached 1 L Nalgene bottles and dispense ~250 ml of the sample from the Niskin into the bottle; close the lid and shake vigorously. Dump. This will rid the container of residual bleach. Repeat process 2x (= three rinses in total). Water must come from the same Niskin that will be the source of the actual sample; otherwise, there will be cross-contamination.
 
 **Tubing Sterilization:**
-Required for [OME eDNA Collection Protocol with Sterivex and Peristaltic Pump](https://github.com/marinednadude/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge/blob/main/NOAA-PMEL-OME_eDNA_Sterivex_Extraction_Protocol_Centrifuge.md)
+Required for [OME eDNA Collection Protocol with Sterivex and Peristaltic Pump](https://github.com/marinednadude/NOAA-PMEL-OME_eDNA_Collection_Protocol_Sterivex_PeristalticPump_BeBOP/blob/main/NOAA-PMEL-OME_eDNA_Collection_Protocol_Sterivex_PeristalticPump.md)
 
 Tube Sterilization Method (RO Available):
 1. Prepare a 10% bleach solution in one of the buckets (6-10 L total, depending on needs). Then, grab two sterile buckets and fill one with RO water (6-10 L total, depending on needs). Leave the other sterile bucket for peristaltic tubing storage post-sterilization.
@@ -209,9 +209,9 @@ Required to connect sterivex to tubing with Filtering Method 1 - [OME eDNA Colle
 3. Rinse 3x with RO water while shaking if available. If no RO is available, rinse individual adaptors in sample seawater from the Niskin 3x immediately before sampling.
 
 Gravity Bag Connector Sterilization:
-Required to connect the gravity bag and sterivex in [OME eDNA Collection Protocol via Gravity Bag](https://github.com/Brown-NOAA/NOAA-PMEL-OME_eDNA_Collection_Protocol_Sterivex_GravityBag_BeBOP/blob/main/NOAA-PMEL-OME_eDNA_Collection_Protocol_Sterivex_GravityBag.md)
+Often required to connect the gravity bag and sterivex in [OME eDNA Collection Protocol via Gravity Bag](https://github.com/Brown-NOAA/NOAA-PMEL-OME_eDNA_Collection_Protocol_Sterivex_GravityBag_BeBOP/blob/main/NOAA-PMEL-OME_eDNA_Collection_Protocol_Sterivex_GravityBag.md)
 
-1. Prepare a 10% bleach solution in a bucket (2 L). Then, grab another sterile bucket and fill it with RO water (2 L).
+1. Prepare a 10% bleach solution in one of the buckets (2 L). Then, grab another sterile bucket and fill it with RO water (2 L).
 2. Soak the connectors in the bucket with bleach for 15 min; make sure the bleach makes it into the inside of the tubing.
 3. Before transferring to the RO bucket, make sure to run bleach again through the tubing. Shake gently to remove any large bleach droplets before transferring to RO.
 4. Soak the connector in the bucket with RO for 15 min; make sure the RO makes it into the inside of the tube.
@@ -248,4 +248,3 @@ All spaces, but especially the eDNA lab van, require periodic deep cleans (every
 * Sweep debris off floors and mop with a 10% bleach solution.
 * Check BSC UV light strength with the UV reader.
 * Perform inventory of supplies; restock/reorder dwindling items.
-
